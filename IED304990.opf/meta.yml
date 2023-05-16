@@ -1,0 +1,18 @@
+id: IED304990
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:18.661000
+last_modified: 2023-01-04 11:29:18.661022
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  F0E1:
+    title: A Prayer for the Swift Rebirth of Pewar Rinpoche
+    base_file: F0E1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
